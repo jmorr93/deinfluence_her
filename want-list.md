@@ -65,7 +65,7 @@ Or create it manually in Notion with these columns:
 | Why I Want It | Text | — |
 | Notes | Text | — |
 
-### Step 3 — Add your database info to this file
+### Step 3 — Add your database info to this file (if you created your Notion database manually)
 
 Replace the two placeholders below with your own values:
 
