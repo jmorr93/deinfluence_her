@@ -1,3 +1,4 @@
+**Claude Commands have since merged with Claude Skills. But this document keeps old naming: Commands. Feel free to copy this document into claude and ask it to update any command reference and folder name to skills. 
 ---
 description: Save a product you want to your Notion Want List — works with or without a browser
 allowed-tools: mcp__notion__notion-create-pages, WebFetch
